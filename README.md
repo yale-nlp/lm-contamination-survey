@@ -1,4 +1,4 @@
-# lm-contamination-surveyy
+# lm-contamination-survey
 This is the repo for ACL 2024 Finding paper - Unveiling the Spectrum of Data Contamination in Language Model: A Survey from Detection to Remediation.
 
 A curated list of data contamination papers (Impact, Detection, Mitigation) has been collected in this repo. We welcome contributions of relevant studies not yet included and intend to update the repository regularly to reflect advancements in the field of data contamination.
